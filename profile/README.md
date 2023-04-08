@@ -1,4 +1,4 @@
-# Salve, salve! 
+# Salve, salve! 😁
 
 Esta organização objectiva estabelecer projectos meus que surgiram por curiosidades que levaram à algumas idéias possivelmente grandes demais e imprácticas, sem alvo profissional, por hora.
 
@@ -6,7 +6,7 @@ Esta organização objectiva estabelecer projectos meus que surgiram por curiosi
 
 &nbsp;
 
-Primordialmente, o foco de trabalho é o LSVilavis, uma motriz gráphica para construir programas visuais com estilos mais simplistas ao invés de realistas, assim como eram nos tempos de 2003, onde consolas como GameCube, PlayStation 2, ou, nos computadores, as plataformas OpenGL, DirectX8 e 9 eram as principais ferramentas gráphicas, pois acredito que o realismo excessivo trás malefícios às identidades dos jogos e filmagens virtuais. 
+Primordialmente, o foco de trabalho é o LSVilaVis, uma motriz gráphica para construir programas visuais com estilos mais simplistas ao invés de realistas, assim como eram nos tempos de 2003, onde consolas como GameCube, PlayStation 2, ou, nos computadores, as plataformas OpenGL, DirectX8 e 9 eram as principais ferramentas gráphicas, pois acredito que o realismo excessivo trás malefícios às identidades dos jogos e filmagens virtuais. 
 
 Posteriormente, com uma base de receituários gráphicos mais sólidos, a idéia é que desenvolvam-~se jogos artísticos ou filmes explorativos que apresentem efeitos sonoros e canções que mesclam estilos tradicionais Portugueses com a ambientação metropolitana moderna e enigmática de São Paulo. Londres, que é uma metrópole maior quanto São Paulo, faz-me inspiração musical com sua variedade de estilos electrônicos, bastantes sublimes e experimentais, similares a algumas regiões de SP. Assim, ao menos poderei dizer que há algo diferente do que se encontra em popular normalmente nestes lugares.
 
