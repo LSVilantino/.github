@@ -43,7 +43,7 @@ Eis alguns exemplos de quê tomo como inspirações:
 
 &nbsp;
 
-###### Eu, o fundadôr, quero aproximações com cultura Portuguesa e admiro sua língua, assim como as Paulistas. Se qualquer um dos projectos que tenho será finalizado, só o tempo dirá, mas todos os deste grupo são considerados Paulistugueses (?), como uma forma de contribuição para ambos os lugares tanto gosto. Caso algum dia venham a se tornar projectos reais e coesos, que esta união esteja clarificada, para que possam saber a quem pertence. 
+###### Eu, o fundadôr, quero aproximações com cultura Portuguesa e rebuscar as raízes Paulistas, admiro-os como um todo. Se qualquer um dos projectos que tenho será finalizado, só o tempo dirá, mas todos os deste grupo são considerados Portugueses ou Paulistas, como uma forma de contribuição para ambos os lugares tanto gosto. Caso algum dia venham a se tornar projectos reais e coesos, que esta união esteja clarificada, para que possam saber a quem pertence.
 
 <img src="https://user-images.githubusercontent.com/118770355/230700235-a82df7ca-f8ee-4db3-9fa9-6d27578716c2.jpeg" width="59.25" height="39.5"/><img src="https://user-images.githubusercontent.com/118770355/230700446-049c8983-e1e9-43c1-b76c-baa006d7a1b5.png" width="59.25" height="39.5"/><img src="https://user-images.githubusercontent.com/118770355/230700518-4e0769d0-2f08-4d97-bf06-9d3e44350894.png" width="59.25" height="39.5"/>
 
